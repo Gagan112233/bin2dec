@@ -1,1 +1,1 @@
-# bin2dec
+# A Simple Binary to Decimal Convertor

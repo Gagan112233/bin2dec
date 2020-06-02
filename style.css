@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    color: black;
+}
+
+#main {
+    margin-top: 200px;
+}
+
+.common {
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid black;
+    text-align: center;
+    outline: none;
+}
+
+button {
+    border-radius: 10px !important; 
+    outline: none !important;
+}
